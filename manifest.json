@@ -1,0 +1,14 @@
+{
+  "name": "chrome-extension-basic",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "Basic Chrome Web extension",
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "permissions": [],
+  "host_permissions": [],
+  "action": {},
+  "homepage_url": "https://github.com/guest271314/chrome-extension-basic"
+}
